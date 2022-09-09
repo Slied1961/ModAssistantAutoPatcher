@@ -2,7 +2,7 @@
 "Piracy is bad, unlike handing out massive amounts of copyrighted music"
 ![Alt Text](https://i.imgur.com/CfHG7dT.gif)
 
-Download at - [https://github.com/Slied1961/ModAssistantPatched/releases]
+Download at - [https://github.com/Slied1961/ModAssistantAutoPatcher/releases]
 
 if you want to remove the checks yourself then download DnSpy [https://github.com/dnSpyEx/dnSpy/releases]
 chuck in the original Mod Assistant into dnspy goto whats shown here [https://i.imgur.com/JLSNFsc.png]
